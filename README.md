@@ -11,5 +11,5 @@ created from the course [udemy.com](https://www.udemy.com/course/praktyczny-kurs
 ![image2](https://github.com/OskarLewandowski/ImageLibrary/blob/master/ImageLibrary/DependencyInjectionDemo_images/2.png)
 
 ### After restart project:
-![image3](https://github.com/OskarLewandowski/ImageLibrary/blob/master/ImageLibrary/DependencyInjectionDemo_images/2.png)
+![image3](https://github.com/OskarLewandowski/ImageLibrary/blob/master/ImageLibrary/DependencyInjectionDemo_images/3.png)
 
